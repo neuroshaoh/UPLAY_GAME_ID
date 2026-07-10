@@ -55,6 +55,7 @@ List of GAME ID's in Uplay by Ubisoft
 11373 - Discovery Tour: Ancient Egypt by Assassin’s Creed (Steam)  
 13504 - Assassin's Creed® Valhalla  
 19000 - Discovery Tour: Viking Age by Ubisoft  
+65043 - Assassin's Creed® Black Flag Resynced
 
 # FAR CRY Franchise
 46 - Far Cry® 3  
